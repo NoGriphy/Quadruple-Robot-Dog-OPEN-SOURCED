@@ -1,9 +1,9 @@
 ## ( QUADRUPLE ROBOT DOG - INSPIRED BY Unitree ): Open-sourced ##
 
-## As you may have read the repository title, this is my FIRST an open-sourced robot dog project. If I have lacked any resources, please message me in Reddit ( https://www.reddit.com/user/Severe_Package6618/ - Display name is MiniGriphy )
+As you may have read the repository title, this is my FIRST an open-sourced robot dog project. If I have lacked any resources, please message me in Reddit **( https://www.reddit.com/user/Severe_Package6618/ - Display name is MiniGriphy )**
 
 <p align="center">
-  <img src="RD_Image_References/Reddit_Profile_Picture.jpg" width="300">
+  <img src="RD_Image_References/Reddit_Profile_Picture.jpg" width="400">
   <br>
   <em>Reddit Account</em>
 </p>
