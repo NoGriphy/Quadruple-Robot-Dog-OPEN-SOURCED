@@ -1,4 +1,4 @@
-## ( QUADRUPLE ROBOT DOG - INSPIRED BY Unitree ): Open-sourced ##
+## ( QUADRUPLE ROBOT DOG - INSPIRED BY Unitree ): Open-Sourced ##
 
 As you may have read the repository title, this is my FIRST an open-sourced robot dog project. If I have lacked any resources, please message me in Reddit **( https://www.reddit.com/user/Severe_Package6618/ - Display name is MiniGriphy )**
 
@@ -10,7 +10,7 @@ As you may have read the repository title, this is my FIRST an open-sourced robo
 
 ---
 
-## ( Preface ):
+### ( Preface ):
 In order for this project to work, I really recommend you using a 3D printer that has a dimension of 260 x 260 x 300 mm^3 (the one I'm using is Creality). If you don't have one, it's fine, just try to adjust the component on the printing platform **diagonally** until the part fits on the it perfectly without crossing the boundary. 
 
 This project relies on 12 servos/motors, **DS3235 (a torque of 35kg/cm)**, you can purchase it from Amazon, AliExpress, or any websites that are completely safe. The reason why we need DS3235 is that we want a strong torque that would lift at least 1 kilogram (kg) of body weight. Even the servos can easily this weight, we also need to ensure that when adding electronics (e.g., batteries, cables, microcontroller, AI vision, etc), the DS3235 servos are still be able to lift them. 
