@@ -53,7 +53,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 </p>
 
 <p align="center">
-  <img src="RD_Image_References/Robot_Dog_Header_Upgraded" width="450">
+  <img src="RD_Image_References/Robot_Dog_Header_Upgraded.jpg" width="450">
   <br>
   <em>Decreased the total mass.</em>
   <br>
