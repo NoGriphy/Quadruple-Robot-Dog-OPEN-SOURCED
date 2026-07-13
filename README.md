@@ -13,7 +13,7 @@ As you may have read the repository title, this is my FIRST an open-sourced robo
 # ( Preface ):
 In order for this project to work, I really recommend you using a 3D printer that has a dimension of 260 x 260 x 300 mm^3 (the one I'm using is Creality). If you don't have one, it's fine, just try to adjust the component on the printing platform **diagonally** until the part fits on the it perfectly without crossing the boundary. 
 
-This project relies on 12 servos/motors, **DS3235 (a torque of 35kg/cm)**, you can purchase this from Amazon, AliExpress, or any websites that are completely safe. The reason why we need DS3235 is that we want a strong torque that would lift at least 1 kilogram (kg) of body weight. Even the servos can easily this weight, we also need to ensure that when adding electronics (e.g., batteries, cables, microcontroller, AI vision, etc), the DS3235 servos are still be able to lift it. 
+This project relies on 12 servos/motors, **DS3235 (a torque of 35kg/cm)**, you can purchase it from Amazon, AliExpress, or any websites that are completely safe. The reason why we need DS3235 is that we want a strong torque that would lift at least 1 kilogram (kg) of body weight. Even the servos can easily this weight, we also need to ensure that when adding electronics (e.g., batteries, cables, microcontroller, AI vision, etc), the DS3235 servos are still be able to lift it. 
 
 And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 20A (or higher current) power supply or battery (note: this would add additional weight to the robot). Otherwise, if you have, let's say, a 5V 15A power supply, the servos won't be able to exert all its torque power, meaning it would slightly tedious to lift the entire body. 
 
