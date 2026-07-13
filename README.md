@@ -34,7 +34,10 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 
 ### ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect This If You Don't Really Care. ): 
 ---
-### - ( Individual Component View ) -
+<p align="center">
+  <em><strong>- (Individual Component View) -</strong></em>
+</p>
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Complete_Skeleton.jpg" width="450">
   <br>
