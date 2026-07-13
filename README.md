@@ -113,7 +113,10 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 
 ---
 
-### - ( Integrated Legacy Robot Dog ) -
+<p align="center">
+  <em><strong>- (Integrated Legacy Robot Dog) -</strong></em>
+</p>
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Complete_Skeleton_Upgrade.jpg" width="450">
   <br>
