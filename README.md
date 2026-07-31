@@ -15,7 +15,7 @@ In order for this project to work, I really recommend you using a 3D printer tha
 
 This project relies on 12 servos/motors, **DS3235 (a torque of 35kg/cm)**, you can purchase it from Amazon, AliExpress, or any websites that are completely safe. The reason why we need DS3235 is that we want a strong torque that would lift at least 1 kilogram (kg) of body weight. Even the servos can easily this weight, we also need to ensure that when adding electronics (e.g., batteries, cables, microcontroller, AI vision, etc), the DS3235 servos are still be able to lift them. 
 
-And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 20A (or higher current) power supply or battery (note: this would add additional weight to the robot, and we need to be constantly cautious about the total weight while making this project). Otherwise, if you have, let's say, a 5V 15A power supply, the servos won't be able to exert all its torque power, meaning it would be slightly tedious to conduct the heavy-lifting. 
+And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 20A (or higher current) power supply or battery (note: this would add additional weight to the robot, and we need to be constantly cautious about the total weight while making this project.). Otherwise, if you have, let's say, a 5V 15A power supply, the servos won't be able to exert all its torque power, meaning it would be slightly tedious to conduct the heavy-lifting. 
 
 ---
 
@@ -25,12 +25,23 @@ And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2
 - ESP32 (Any standard ESP-32. I'm using Devkit v1)
 - Raspberry Pi 2W
 - LiPo Battery 2200mAh 7.4V 50C (with XT60 cable)
+- UBEC Voltage Regulator (Note: Find the product that is able to decrease a **7.4V power to 6V**) 
 - Hiwonder LSC-32 32-Channel Controller (Alternative: PCA9685 driver board can be acceptable if you have solutions to prevent current spike)
 - 12 DS3235 Servos
 - CAD parts/components (Robot Dog) - **You can access and download them through the 'RD_CAD_FILE' folder.**
 - A camera for AI vision (Note: If you have a camera that is specialized for AI, that would be a perfect one as long as it does NOT connecting with USB cable.)
+- 2M 6-25mm screws (Note: It is recommended to purchase a kit)
 - Arduino IDE (C++)
 - ROS2 (Robot Operating System) - **OPTIONAL** (note: please ignore this requirement if you don't know how to code ROS2 programs; it is optional for serial communications and nodes distribution)
 
 ---
+
+## ( Building the Robot Dog By Using the CAD Parts ): 
+I am pretty confident most of you knowing how to assemble this robot base on how it looks. If I am wrong, then please check the '**RD_Building_Instruction**' page. 
+
+<p align="center">
+  <img src="RD_Image_References/Bench-testing_Form.jpg" width="500">
+  <br>
+  <em>Reference RD View</em>
+</p>
 
