@@ -17,16 +17,18 @@ This project relies on 12 servos/motors, **DS3235 (a torque of 35kg/cm)**, you c
 
 And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 20A (or higher current) power supply or battery (note: this would add additional weight to the robot, and we need to be constantly cautious about the total weight while making this project). Otherwise, if you have, let's say, a 5V 15A power supply, the servos won't be able to exert all its torque power, meaning it would be slightly tedious to conduct the heavy-lifting. 
 
-Additionally, I recommend a power setup that can endure 20 Amps of current so your controller board's traces do not burn out. A standard PCA9685 board safely accepts only up to 10 Amps; high-current servo spikes will quickly melt its traces. While adding a capacitor can smooth out voltage drops, a much simpler control solution is the Hiwonder LSC-32 32-Channel Controller. The LSC-32 handles power much better than a PCA9685 thanks to **integrated 6-channel over-current fuses**. To safely reach a full 20 Amps without tripping those built-in fuses, USE a **split-power** method: run the servo signal lines to the LSC-32, but wire the servo power leads directly to a 20A external terminal block. 
-
 ---
 
 ### ( What Do We NEED for The Quadruple Robot Dog; resources requirements? ):
-- A 6.8V - 7.4V 20A power supply or battery.
+- **(Optional, but NOT recommended)**: A 6.8V - 7.4V 20A power supply or battery (FOR **BENCH-TESTING ONLY!** AND IT IS NOT RECOMMENDED IF YOU'RE USING A PCA9685 SERVO DRIVER. BECAUSE AS I HAVE MENTIONED ABOVE, THE COPPER TRACES ON ITS CIRCUIT WOULD BURN OR MELT IF THE SERVOS PULL OVER 10 AMPS AT A TIME.)
+
+- ESP32 (Any standard ESP-32. I'm using Devkit v1)
+- Raspberry Pi 2W
+- LiPo Battery 2200mAh 7.4V 50C (with XT60 cable)
 - Hiwonder LSC-32 32-Channel Controller (Alternative: PCA9685 driver board can be acceptable if you have solutions to prevent current spike)
-- 12 DS3235 Servos/Motors
-- CAD parts/components (Robot Dog)
-- A camera feed
+- 12 DS3235 Servos
+- CAD parts/components (Robot Dog) - **You can access and download them through the 'RD_CAD_FILE' folder.**
+- A camera for AI vision (Note: If you have a camera that is specialized for AI, that would be a perfect one as long as it does NOT connecting with USB cable.)
 - Arduino IDE (C++)
 - ROS2 (Robot Operating System) - **OPTIONAL** (note: please ignore this requirement if you don't know how to code ROS2 programs; it is optional for serial communications and nodes distribution)
 
