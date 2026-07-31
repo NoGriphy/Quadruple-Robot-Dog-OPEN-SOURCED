@@ -28,7 +28,7 @@ And to extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2
 - UBEC Voltage Regulator (Note: Find the product that is able to decrease a **7.4V power to 6V**) 
 - Hiwonder LSC-32 32-Channel Controller (Alternative: PCA9685 driver board can be acceptable if you have solutions to prevent current spike)
 - 12 DS3235 Servos
-- CAD parts/components (Robot Dog) - **You can access and download them through the 'RD_CAD_FILE' folder.**
+- CAD parts/components (Robot Dog) - **You can access and download them through the 'RD_CAD' folder.**
 - A camera for AI vision (Note: If you have a camera that is specialized for AI, that would be a perfect one as long as it does NOT connecting with USB cable.)
 - 2M 6-25mm screws (Note: It is recommended to purchase a kit)
 - Arduino IDE (C++)
