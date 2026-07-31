@@ -1,5 +1,5 @@
 
-### ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect This If You Don't Really Care. ): 
+### ( THOSE WERE THE DESIGNS WHEN I FIRST BUILT THIS PROJECT. )
 ---
 <p align="center">
   <em><strong>- (Individual Component View) -</strong></em>
