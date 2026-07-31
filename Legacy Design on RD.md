@@ -1,5 +1,8 @@
 
-### ( THOSE WERE THE DESIGNS WHEN I FIRST BUILT THIS PROJECT. )
+<p align="center">
+  <strong>( THOSE WERE THE DESIGNS WHEN I FIRST BUILT THIS PROJECT. )</strong>
+</p>
+  
 ---
 <p align="center">
   <em><strong>- (Individual Component View) -</strong></em>
