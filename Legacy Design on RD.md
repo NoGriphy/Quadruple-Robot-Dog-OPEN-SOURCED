@@ -22,7 +22,7 @@
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_With_Heads.jpg" width="450">
   <br>
-  <em>"Pointy" head.</em>
+  <em>Slight "pointy" head.</em>
   <br>
 </p>
 
