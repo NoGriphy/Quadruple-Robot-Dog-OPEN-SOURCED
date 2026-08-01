@@ -10,7 +10,7 @@ As you may have read the repository title, this is my FIRST an open-sourced robo
 
 ---
 
-### ( Preface ):
+### ( Introduction ):
 In order for this project to work, I really recommend you using a 3D printer that has a dimension of 260 x 260 x 300 mm^3 (the one I'm using is Creality). If you don't have one - it's fine - try to adjust the component on your printing platform **diagonally** until the part fits perfectly without crossing the boundary. 
 
 This project will utilise 12 servos/motors, **DS3235 (a torque of 35kg/cm) | 180-degrees**, you can purchase it from Amazon, AliExpress, or any websites that are completely safe. The reason why we need DS3235 is that we want to have a strong torque that would lift at least 1 kilogram (KG) of body weight. Even the servos can easily this weight, we also need to ensure that when adding electronics (e.g., batteries, cables, microcontroller, AI vision, etc), the DS3235 servos are still be able to lift them without struggling. 
