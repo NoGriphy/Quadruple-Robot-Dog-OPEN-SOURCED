@@ -1,4 +1,4 @@
-## ( QUADRUPLE ROBOT DOG - INSPIRED BY Unitree ): Open-Sourced ##
+## ( QUADRUPED ROBOT DOG - INSPIRED BY Unitree ): OPEN-SOURCED ##
 
 As you may have read the repository title, this is my FIRST an open-sourced robot dog project. If I have missed any resources, please message me on Reddit **( https://www.reddit.com/user/Severe_Package6618/ - Display name is StepPhase-01 )**
 
@@ -19,7 +19,7 @@ To extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2200m
 
 ---
 
-### ( What Do We NEED For the Quadruple Robot Dog; Resources Requirements? ):
+### ( What Do We Need for the Quadruple Robot Dog: Resource Requirements? ):
 - A 6.8V - 7.4V 20A power supply or battery
 - ESP32 (Any standard ESP-32. I'm using Devkit v1)
 - Raspberry Pi 2W (For Python code compilation)
@@ -35,7 +35,7 @@ To extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2200m
 
 ---
 
-## ( Step 1 - Building the Robot Dog By Using the CAD Parts ): 
+## ( Step 1 - Building the Robot Dog by Using CAD Parts ): 
 Please check the '**RD_Building_Instruction**' page if you're unsure how to assemble the robot components. 
 **HERE IS THE COMPLETED VIEW FOR THIS PROJECT (SP-01). Download the file, and open it on your CAD software (e.g., Autodesk Fusion, Solidwork, etc): https://drive.google.com/file/d/1cRC2gju0PUmeT0fz4Unme0vgVkuIykVL/view?usp=sharing**
 
