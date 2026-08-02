@@ -50,14 +50,14 @@ Please check the '**RD_Building_Instruction**' page if you're unsure how to asse
 ## ( SELF-REFLECTION - WHAT I HAVE LEARNED AS A ROBOTIC BEGINNER ): Hardware Limitations & Project Pivot
 I initially set out to design, build, and code a 3-DOF quadruped robot dog from scratch. And I successfully completed the structural CAD planning, mechanical assembly, and initial code.
 
-- **Dynamic Balance**: Programming the dynamic stability needed for a quadruped is incredibly complex, and my current structural setup struggles to maintain balance during movement.
+- **Dynamic Balance**: Programming the dynamic stability needed for a quadruped is incredibly complex, and my current structural setup struggles to keep the balance during movement.
 - **Hardware Limits**: The leverage and weight distribution of the quadruped design put too much stress on my DS3235 servos, which results in the plastic shafts wearing out completely.
 
 **( The Pivot ):**
-Instead of forcing a design on hardware that cannot support it, I am temporarily pivoting to a statically stable hexapod (robot spider). A 6-legged design will distribute the physical load much better across my current servos and provide a stable forgiving platform to accurately practice and test my inverse kinematics algorithms.
+Instead of forcing a design on hardware that cannot support it, I am temporarily pivoting to a statically stable hexapod (robot spider). A 6-legged design will distribute the physical load much better across my current servos and provide a stable forgiving platform to accurately practice and test my inverse kinematics algorithms; I can grasp the foundamental physics and math through this spider project like my first one. 
 
 **( Looking Forward ):**
-This quadruped robot dog project will be delayed for a moment while I master the kinematics on the hexapod and source stronger components. I will reupload new contents for V2.0 designs for better stability as a whole. 
+This quadruped robot dog project will be **delayed for a moment** while I master the kinematics on the hexapod and source stronger components. I will reupload new contents for V2.0 designs of robot dog for an even better stability in the future. 
 
 For people who want to build upon this V1.0 project, please feel free to download the CAD components. 
 
