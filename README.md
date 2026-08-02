@@ -49,7 +49,7 @@ To extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2200m
 <p align="center">
   <strong>( Step 1 - Building the Robot Dog by Using CAD Parts ):</strong>
 </p>
-Please check the '**RD_Building_Instruction**' page if you're unsure how to assemble the robot components. 
+Please check the 'RD_Building_Instruction' page if you're unsure how to assemble the robot components. 
 **HERE IS THE COMPLETED VIEW FOR THIS PROJECT (SP-01). Download the file, and open it on your CAD software (e.g., Autodesk Fusion, Solidwork, etc): https://drive.google.com/file/d/1cRC2gju0PUmeT0fz4Unme0vgVkuIykVL/view?usp=sharing**
 
 <p align="center">
