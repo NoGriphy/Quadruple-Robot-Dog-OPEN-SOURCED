@@ -25,7 +25,6 @@ To extract the servos' full potential, we have to use 6.8 V - 7.4V (volts) 2200m
 - Raspberry Pi 2W (For Python code compilation)
 - LiPo Battery 2200mAh 7.4V 50C (with a built-in XT60 cable)
 - UBEC Voltage Regulator (Note: Find the product that is able to decrease a **7.4V power to 6V**) 
-- Hiwonder LSC-32 32-Channel Controller (Alternative: PCA9685 driver board can be acceptable if you have solutions to prevent current spike that is higher than 10 Amps)
 - 12 DS3235 Servos
 - CAD parts/components (Robot Dog) - **You can access and download them through the 'RD_CAD' folder.**
 - A camera for AI vision (Note: If you have a camera that is specialized for AI, it would be perfect as long as it does NOT connecting with a USB cable.)
