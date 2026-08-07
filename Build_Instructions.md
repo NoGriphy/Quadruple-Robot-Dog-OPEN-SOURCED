@@ -1,1 +1,1 @@
-## ( Please for V2.0; In development... )
+## ( Please wait for V2.0; In development... )
